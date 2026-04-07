@@ -1,0 +1,6 @@
+../Core/Src/main.c:475:13:RX_ResetFrame	8	static
+../Core/Src/main.c:468:13:PCA9548A_Select.part.0	24	static
+../Core/Src/main.c:488:13:OLED_ShowTokenRange	24	static
+../Core/Src/main.c:205:6:SystemClock_Config	96	static,ignoring_inline_asm
+../Core/Src/main.c:126:5:main	80	static,ignoring_inline_asm
+../Core/Src/main.c:559:6:Error_Handler	0	static,ignoring_inline_asm

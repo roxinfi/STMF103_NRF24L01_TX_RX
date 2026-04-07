@@ -1,0 +1,14 @@
+../Core/Src/nrf24l01.c:7:20:ce_low	1
+../Core/Src/nrf24l01.c:6:20:csn_high	1
+../Core/Src/nrf24l01.c:5:20:csn_low	1
+../Core/Src/nrf24l01.c:10:16:spi_rw.isra	1
+../Core/Src/nrf24l01.c:26:13:write_reg	1
+../Core/Src/nrf24l01.c:57:13:clear_irqs	1
+../Core/Src/nrf24l01.c:50:13:cmd	1
+../Core/Src/nrf24l01.c:78:13:common_radio_setup	3
+../Core/Src/nrf24l01.c:64:6:NRF24_Begin	1
+../Core/Src/nrf24l01.c:107:6:NRF24_InitTX	1
+../Core/Src/nrf24l01.c:117:6:NRF24_InitRX	1
+../Core/Src/nrf24l01.c:128:6:NRF24_Send	6
+../Core/Src/nrf24l01.c:172:6:NRF24_Available	1
+../Core/Src/nrf24l01.c:178:9:NRF24_Read	2

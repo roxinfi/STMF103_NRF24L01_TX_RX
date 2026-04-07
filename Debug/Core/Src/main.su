@@ -1,0 +1,13 @@
+../Core/Src/main.c:130:5:main	48	static
+../Core/Src/main.c:212:6:SystemClock_Config	88	static
+../Core/Src/main.c:260:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:294:13:MX_RTC_Init	16	static
+../Core/Src/main.c:352:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:390:13:MX_TIM4_Init	32	static
+../Core/Src/main.c:435:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:475:13:PCA9548A_Select	32	static
+../Core/Src/main.c:482:13:RX_ResetFrame	24	static
+../Core/Src/main.c:496:13:OLED_ShowTokenRange	24	static
+../Core/Src/main.c:515:13:RX_HandlePacket	24	static
+../Core/Src/main.c:552:13:OLED_UpdateTwoScreens	16	static
+../Core/Src/main.c:570:6:Error_Handler	4	static,ignoring_inline_asm
